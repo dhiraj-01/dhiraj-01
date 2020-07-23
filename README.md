@@ -2,21 +2,21 @@
 
 ## I write ⌨ Code ♥
 
-<h1>
-    <a href="https://www.stopstalk.com/user/profile/dhiraj_01" title="Coding" target="__blank">
-        <i class="fas fa-code"></i>
-    </a>
-</h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<a href="https://www.stopstalk.com/user/profile/dhiraj_01" title="Coding" target="__blank">
+    <i class="fas fa-code"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/dhiraj-govindvira/" title="Linkedln" target="__blank">
+    <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+</a>
 
 
 <a href="https://www.instagram.com/dhiraj_1_11/" title="Instagram" target="__blank">
     <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
 </a>
 
-
-<a href="https://www.linkedin.com/in/dhiraj-govindvira/" title="Linkedln" target="__blank">
-    <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
-</a>
 
 
 <!--
