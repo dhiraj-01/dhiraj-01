@@ -2,16 +2,10 @@
 
 ## I write ⌨ Code ♥
 
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<body>
-    
 <a href="https://www.stopstalk.com/user/profile/dhiraj_01" title="Coding" target="__blank">
-    <i class="fas fa-code" style="font-size:50px;></i>
+    <img src="https://img.icons8.com/fluent/48/000000/code.png"/>
 </a>
+
 
 <a href="https://www.linkedin.com/in/dhiraj-govindvira/" title="Linkedln" target="__blank">
     <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
