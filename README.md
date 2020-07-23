@@ -3,17 +3,17 @@
 ## I write ⌨ Code ♥
 
 <a href="https://www.stopstalk.com/user/profile/dhiraj_01" title="Coding" target="__blank">
-    <img src="https://img.icons8.com/ios/50/000000/code.png"/>
+    <img align="left" src="https://img.icons8.com/ios/50/000000/code.png"/>
 </a>
 
 
 <a href="https://www.instagram.com/dhiraj_1_11/" title="Instagram" target="__blank">
-    <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
+    <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
 </a>
 
 
 <a href="https://www.linkedin.com/in/dhiraj-govindvira/" title="Linkedln" target="__blank">
-    <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+    <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 </a>
 
 
