@@ -3,7 +3,7 @@
 ## I write ⌨ Code ♥
 
 <a href="https://www.stopstalk.com/user/profile/dhiraj_01" title="Coding" target="__blank">
-    <img align="left" src="https://img.icons8.com/ios/50/000000/code.png"/>
+    <i class="fas fa-code"></i>
 </a>
 
 
