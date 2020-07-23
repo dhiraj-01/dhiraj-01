@@ -2,9 +2,11 @@
 
 ## I write ⌨ Code ♥
 
-<a href="https://www.stopstalk.com/user/profile/dhiraj_01" title="Coding" target="__blank">
-    <i class="fas fa-code"></i>
-</a>
+<h1>
+    <a href="https://www.stopstalk.com/user/profile/dhiraj_01" title="Coding" target="__blank">
+        <i class="fas fa-code"></i>
+    </a>
+</h1>
 
 
 <a href="https://www.instagram.com/dhiraj_1_11/" title="Instagram" target="__blank">
