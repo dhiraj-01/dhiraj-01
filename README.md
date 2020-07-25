@@ -2,11 +2,8 @@
 
 ## I write ⌨ Code ♥
 
-<img src="https://img.icons8.com/nolan/64/code-file.png"/>
-
 <a href="https://www.stopstalk.com/user/profile/dhiraj_01" title="Coding" target="_blank">
-    <img algin="left" src="https://img.icons8.com/nolan/64/code-file.png"/>
-    <img  align="left" src="https://img.icons8.com/fluent/65/000000/code.png"/>
+    <img src="https://img.icons8.com/plasticine/64/000000/code-file.png"/>
 </a>
 
 
