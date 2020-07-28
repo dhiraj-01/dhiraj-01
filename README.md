@@ -1,11 +1,6 @@
 # Hi there 👋
 
-## I write ⌨ Code ♥
-
-<a href="https://www.stopstalk.com/user/profile/dhiraj_01" title="Coding" target="_blank">
-    <p style="font-size=30px;"> StopStalk </p>
-</a>
-
+## I write ⌨ Code ♥ [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
 
 <a href="https://www.linkedin.com/in/dhiraj-govindvira/" title="Linkedln" target="_blank">
     <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
