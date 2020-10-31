@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Dhiraj Govindvira.
----
+
 ### Programming
 - I ♥ write ⌨ Code [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
 - launguages : `C`, `C++`, `Python`, `Javascript`, `typescript`
----
+
 ### Contact
 <a href="https://www.linkedin.com/in/dhiraj-govindvira/" title="Linkedln" target="_blank">
     <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
@@ -12,10 +12,12 @@
     <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
 </a>
 <br>
----
+<br>
+
 ### Achievements
 ![Dhiraj github stats](https://github-readme-stats.vercel.app/api?username=dhiraj-01)
----
+
+
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/Dhiraj-01/count.svg)
 <!--
