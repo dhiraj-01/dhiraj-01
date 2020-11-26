@@ -7,6 +7,8 @@
 ### Achievements
 ![Dhiraj github stats](https://github-readme-stats.vercel.app/api?username=dhiraj-01)
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-01&layout=compact)
+
 ### Contact
 <a href="https://www.linkedin.com/in/dhiraj-govindvira/" title="Linkedln" target="_blank">
     <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
