@@ -5,7 +5,7 @@
 - launguages : `C`, `C++`, `Python`, `Javascript`, `typescript`
 
 ### Achievements
-![Dhiraj github stats](https://github-readme-stats.vercel.app/api?username=dhiraj-01)
+![Dhiraj github stats](https://github-readme-stats.vercel.app/api?username=dhiraj-01&show_icons=true)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-01&layout=compact)
 
