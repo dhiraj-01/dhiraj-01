@@ -9,7 +9,7 @@
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-01&layout=compact&langs_count=6&theme=graywhite)
 
-### Contact
+### Social Media
 <a href="https://www.linkedin.com/in/dhiraj-govindvira/" title="Linkedln" target="_blank">
     <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 </a>
