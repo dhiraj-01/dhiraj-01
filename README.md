@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Dhiraj Govindvira.
 
-### Programming
-- I ♥ write ⌨ Code [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
-- launguages : `C`, `C++`, `Python`, `Javascript`, `typescript`
+### About
+- Pursuing B. Tech in Computer Engineering at Dharmsinh Desai University, Nadiad
+- I enjoy problem solving alot!
+- I ♥ to write ⌨ Code [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
+- launguage skill : `C`, `C++`, `Python`, `Javascript`, `typescript`
 
 ### Achievements
 ![Dhiraj github stats](https://github-readme-stats.vercel.app/api?username=dhiraj-01&show_icons=true)
