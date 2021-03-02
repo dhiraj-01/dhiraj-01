@@ -12,19 +12,12 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-01&layout=compact&langs_count=6&theme=graywhite)
 
 ### Social Media
-<a href="https://www.linkedin.com/in/dhiraj-govindvira/" title="Linkedln" target="_blank">
-    <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
-</a>
-<a href="https://www.instagram.com/dhiraj_1_11/" title="Instagram" target="_blank">
-    <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
-</a>
-
-<br>
-<br>
-<br>
+[![Linkedln](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/dhiraj-govindvira/)
+[![Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/dhiraj_govindvira/)
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/Dhiraj-01/count.svg)
+
 <!--
 **Dhiraj-01/Dhiraj-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
