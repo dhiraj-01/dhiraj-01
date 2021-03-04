@@ -6,20 +6,18 @@
 - I ♥ to write ⌨ Code [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
 - launguage skill : `C`, `C++`, `Python`, `Javascript`, `typescript`
 
-### Achievements
+### Github
 ![Dhiraj github stats](https://github-readme-stats.vercel.app/api?username=dhiraj-01&show_icons=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-01&layout=compact&langs_count=6&theme=graywhite)
 
 ### Social Media
 [![Linkedln](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/dhiraj-govindvira/)
 [![Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/dhiraj_govindvira/)
 
-### Visitors
-![Visitor Count](https://profile-counter.glitch.me/Dhiraj-01/count.svg)
-
 <!--
 **Dhiraj-01/Dhiraj-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-01&layout=compact&langs_count=6&theme=graywhite)
+![Visitor Count](https://profile-counter.glitch.me/Dhiraj-01/count.svg)
 
 Here are some ideas to get you started:
 
