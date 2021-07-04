@@ -4,13 +4,13 @@
 - Pursuing B. Tech in Computer Engineering at Dharmsinh Desai University, Nadiad
 - I enjoy problem solving alot!
 - I ♥ to write ⌨ Code [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
-- launguage skill : `C`, `C++`, `Python`, `Javascript`, `typescript`
+- launguage skill : `C`, `C++`, `Python (Basic)`, `Javascript` and `MEAN stack`
 
 ### Github
 
 <!-- ![Dhiraj trophy](https://github-profile-trophy.vercel.app/?username=dhiraj-01&margin-w=15)  -->
 
-![Dhiraj top langs](https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj-01&show_icons=true&locale=en&layout=compact)  
+<!-- ![Dhiraj top langs](https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj-01&show_icons=true&locale=en&layout=compact)   -->
 
 ![Dhiraj github stats](https://github-readme-stats.vercel.app/api?username=dhiraj-01&show_icons=true)  
 
