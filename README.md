@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Dhiraj Govindvira.
 
 ### About
+- https://dhiraj-01.github.io/home/ 
 - Pursuing B. Tech in Computer Engineering at Dharmsinh Desai University, Nadiad
 - I enjoy problem solving alot!
 - I ♥ to write ⌨ Code [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
