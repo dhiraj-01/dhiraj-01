@@ -2,7 +2,6 @@
 
 ### About
 - https://dhiraj-01.github.io/home/ 
-- Pursuing B. Tech in Computer Engineering at Dharmsinh Desai University, Nadiad
 - I enjoy problem solving alot!
 - I ♥ to write ⌨ Code [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
 - Programming launguage skill : `C`, `C++`, `Python (Basic)`, `Javascript` and `MEAN stack`
@@ -10,7 +9,7 @@
 ### May be helpful in the Coding Interview?
 - [My CP Repository](https://github.com/dhiraj-01/CP)
 - [A Simple Code Editor](https://dhiraj-01.github.io/Code-Editor/)
-- [Code and Draw (:](https://dhiraj-01.github.io/Code-and-Draw/)
+- [Code and Draw](https://dhiraj-01.github.io/Code-and-Draw/)
 - [Witeboard](https://witeboard.com/)
 
 ### Github
@@ -21,9 +20,26 @@
 ![Dhiraj github stats](https://github-readme-stats.vercel.app/api?username=dhiraj-01&show_icons=true)  
 ![Dhiraj streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dhiraj-01&)  
 
-### Social Media
-[![Linkedln](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/dhiraj-govindvira/)
+### Let's Connect
+<!-- 
+[![Linkedln](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/dhiraj-01/)
+[![Gmail](https://img.icons8.com/cute-clipart/64/000000/gmail.png)](hi.dhiraj)
 [![Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/dhiraj_govindvira/)
+ -->
+
+<a href="https://dhiraj-01.github.io/home/"> 
+  <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/globe.png"/>
+</a>
+<a href="https://www.linkedin.com/in/dhiraj-01/"> 
+    <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"></img>
+</a>
+<a href="mailto:hi.dhiraj.govindvira@gmail.com"> 
+    <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"></img>
+</a>
+<a href="https://www.instagram.com/dhiraj_govindvira/"> 
+    <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"></img>
+</a>
+
 
 <!--
 **Dhiraj-01/Dhiraj-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
