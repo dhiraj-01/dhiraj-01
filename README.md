@@ -2,9 +2,8 @@
 
 ### About
 - https://dhiraj-01.github.io/home/ 
-- I enjoy problem solving alot!
-- I ♥ to write ⌨ Code [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
-- Programming launguage skill : `C`, `C++`, `Python (Basic)`, `Javascript` and `MEAN stack`
+- I enjoy problem solving alot! checkout at [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
+- Programming launguage skill : `C`, `C++`, `Java (Basic)`, `Javascript` and `MEAN stack`
 
 ### May be helpful in the Coding Interview?
 - [My CP Repository](https://github.com/dhiraj-01/CP)
