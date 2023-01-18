@@ -16,7 +16,6 @@
 <!-- ![Dhiraj trophy](https://github-profile-trophy.vercel.app/?username=dhiraj-01&margin-w=15)  -->
 <!-- ![Dhiraj top langs](https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj-01&show_icons=true&locale=en&layout=compact)   -->
 
-![Dhiraj github stats](https://github-readme-stats.vercel.app/api?username=dhiraj-01&show_icons=true)  
 ![Dhiraj streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dhiraj-01&)  
 
 ### Let's Connect
