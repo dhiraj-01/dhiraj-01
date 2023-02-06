@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/dhiraj-01/"> 
     <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"></img>
 </a>
-<a href="mailto:hi.dhiraj.govindvira@gmail.com"> 
+<a href="mailto:dhirajgovindvira1112@gmail.com"> 
     <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"></img>
 </a>
 <a href="https://www.instagram.com/dhiraj_govindvira/"> 
