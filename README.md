@@ -3,7 +3,7 @@
 ### About
 - https://dhiraj-govindvira.netlify.app/
 - I enjoy problem solving alot! checkout at [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
-- Programming launguage skill : `C`, `C++`, `Java (Basic)`, `Javascript` and `MEAN stack`
+- Programming launguage skill : `Java`, `C`, `C++`, `Javascript` and `MEAN stack`
 
 ### May be helpful in the Coding Interview?
 - [My CP Repository](https://github.com/dhiraj-01/CP)
