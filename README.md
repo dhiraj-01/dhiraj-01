@@ -1,15 +1,7 @@
 # Hi there 👋, I'm Dhiraj Govindvira.
 
 ### About
-- https://dhiraj-govindvira.netlify.app/
-- I enjoy problem solving alot! checkout at [Stopstalk](https://www.stopstalk.com/user/profile/dhiraj_01)
-- Programming launguage skill : `Java`, `C`, `C++`, `Javascript` and `MEAN stack`
-
-### May be helpful in the Coding Interview?
-- [My CP Repository](https://github.com/dhiraj-01/CP)
-- [A Simple Code Editor](https://dhiraj-01.github.io/Code-Editor/)
-- [Code and Draw](https://dhiraj-01.github.io/Code-and-Draw/)
-- [Witeboard](https://witeboard.com/)
+https://dhiraj-01.github.io/Portfolio
 
 ### Github
 
@@ -25,7 +17,7 @@
 [![Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/dhiraj_govindvira/)
  -->
 
-<a href="https://dhiraj-govindvira.netlify.app/"> 
+<a href="https://dhiraj-01.github.io/Portfolio/"> 
   <img align="left" src="https://img.icons8.com/cute-clipart/64/000000/globe.png"/>
 </a>
 <a href="https://www.linkedin.com/in/dhiraj-01/"> 
